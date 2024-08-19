@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Dorivis">
-    <img src="logo.png" height="250" width="250" alt="Unform" />
+  
   </a>
 </p>
 
@@ -14,15 +14,13 @@
 
 ## Um pouquinho sobre mim
 
-Prazer me chamo Dorival, tenho 26 anos, sou nascido do Japão, mas tenho nacionalidade brasileira, e moro em Campinas/SP e sou apaixonado por Programação, Ciência de Dados e tudo que envolva esse mundo de dados e tambem sou apaixonado por animais! Sou entusiasta do mundo dos dados,e quanto mais eu aprendo, mais eu amo tudo isso!
+Meu nome é Larissa, tenho 18 anos e aqui estão algumas curiosidades sobre mim:
 
-- 🔭 Faço parte da equipe de professores do SENAI
-- 👨‍🎓 Sou formado em Bacharel em Ciencia da Computação pela UNICAMP, e em técnico de Informática pelo COTUCA
-- 📚 Estudo sobre assuntos diversos de Ciência de Dados
-- 👯 Estou procurando colaborar em desenvolver meus alunos e em aprimorar meus conhecimentos em Ciencia de Dados
-- 🤔 Estou procurando algum cargo como Cientista de Dados
+- 🔭 Atualmente faço parte da 11° turma de Soluções Digitais da Bosch.
+- 👨‍🎓 Sou Técnica em Eletroeletrônica pela instituição Senai.
+- 📚 Estou cursando Técnico em Desenvolvimento de Sistemas na instituição Senai.
 - 💬 Pergunte-me sobre o que tiver duvida.
-- ⚡ Curiosidade: Sou nascido no Japão, mas não tenho nacionalidade brasileira
+- ⚡ Sei montar cubo mágico! (3x3)
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
