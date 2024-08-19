@@ -12,7 +12,7 @@
 
 
 
-## Um pouquinho sobre mim
+## Olá! Seja bem vindo ao meu perfil!!!
 
 Meu nome é Larissa, tenho 18 anos e aqui estão algumas curiosidades sobre mim:
 
@@ -25,7 +25,7 @@ Meu nome é Larissa, tenho 18 anos e aqui estão algumas curiosidades sobre mim:
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
-<code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
+
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/> </code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
@@ -37,26 +37,10 @@ Meu nome é Larissa, tenho 18 anos e aqui estão algumas curiosidades sobre mim:
           
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Email](mailto:dorival.jrr@gmail.com) ou pelo [Linkedin](https://www.linkedin.com/in/dorival-alves-804558127/) 
+📫 Você pode falar comigo pelo [Linkedin](www.linkedin.com/in/larissa-alves-geraldo) 
 </br>
 
 
 <br/>
 
 
-<div>
-<a href="https://github.com/Dorivis">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dorivis&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dorivis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
-</div>
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-avan%C3%A7ado-green)
-![Graduação](https://img.shields.io/badge/Gradua%C3%A7%C3%A3o_Ciencia_da_Computa%C3%A7%C3%A3o-UNICAMP-green)
-![EmpregoAtual](https://img.shields.io/badge/Professor-SENAI-green)
-
-
-
-![Snake animation](https://github.com/Dorivis/Dorivis/blob/output/github-contribution-grid-snake.svg)
