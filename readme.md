@@ -12,7 +12,7 @@
 
 
 
-## Olá! Seja bem vindo ao meu perfil!!!
+## Olá! Seja bem vindo ao meu perfil!
 
 Meu nome é Larissa, tenho 18 anos e aqui estão algumas curiosidades sobre mim:
 
