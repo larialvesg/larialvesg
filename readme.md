@@ -14,7 +14,7 @@
 
 ## Olá! Seja bem vindo ao meu perfil!
 
-Meu nome é Larissa, tenho 18 anos e aqui estão algumas curiosidades sobre mim:
+Meu nome é Larissa, tenho 19 anos e aqui estão algumas curiosidades sobre mim:
 
 - 🔭 Atualmente faço parte da 11° turma de Soluções Digitais da Bosch.
 - 👨‍🎓 Sou Técnica em Eletroeletrônica pela instituição Senai.
