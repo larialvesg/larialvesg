@@ -37,7 +37,7 @@ Meu nome é Larissa, tenho 19 anos e aqui estão algumas curiosidades sobre mim:
           
 ## Contatos:
 
-📫 Você pode falar comigo pelo [Linkedin](www.linkedin.com/in/larissa-alves-geraldo) 
+📫 Você pode falar comigo pelo [Linkedin](www.linkedin.com/in/larissaalvesgeraldo) 
 </br>
 
 
