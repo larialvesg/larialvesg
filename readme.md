@@ -35,6 +35,6 @@ Meu nome é Larissa, tenho 19 anos e aqui estão algumas curiosidades sobre mim:
           
           
           
-![snake animation](https://raw.githubusercontent.com/larialvesg/larialvesg/main/dist/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/larialvesg/larialvesg/output/dist/github-contribution-grid-snake.svg)
 
 
