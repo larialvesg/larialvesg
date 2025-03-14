@@ -32,8 +32,12 @@ Meu nome é Larissa, tenho 19 anos e aqui estão algumas curiosidades sobre mim:
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
 <code><img  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
           
+<picture>
+  <source srcset="https://github.com/larialvesg/larialvesg/blob/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/larialvesg/larialvesg/blob/output/github-contribution-grid-snake.svg" media="(prefers-colors-scheme: light)"/>
+  <img alt="snake-contribution-game " src="https://github.com/larialvesg/larialvesg/blob/output/github-contribution-grid-snake.svg"/>
+</picture>
           
-          
-![snake animation](https://github.com/larialvesg/larialvesg/blob/output/github-contribution-grid-snake.svg)
+
 
 
