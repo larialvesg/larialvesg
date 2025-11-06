@@ -15,9 +15,9 @@
 
 Meu nome é Larissa, tenho 19 anos e aqui estão algumas curiosidades sobre mim:
 
-- 🔭 Atualmente faço parte da 11° turma de Soluções Digitais da Bosch.
+- 🔭 Atualmente sou Meia Oficial na Bosch Campinas.
 - 👨‍🎓 Sou Técnica em Eletroeletrônica pela instituição Senai.
-- 📚 Estou cursando Técnico em Desenvolvimento de Sistemas na instituição Senai.
+- 📚 Sou Técnica em Desenvolvimento de Sistemas pela instituição Senai.
 - 💬 Pergunte-me sobre o que tiver duvida.
 - ⚡ Sei montar cubo mágico! (3x3)
 
